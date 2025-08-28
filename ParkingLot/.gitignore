@@ -1,0 +1,57 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled source
+*.class
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle build output
+target/
+build/
+out/
+
+# Gradle
+.gradle/
+**/build/
+
+# Eclipse (in case project opened there)
+.classpath
+.project
+.settings/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Coverage reports
+*.lcov
+*.coverage
+*.coverage.*
+*.cov
+
+# IntelliJ plugin settings
+.idea_modules/
+atlassian-ide-plugin.xml
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
